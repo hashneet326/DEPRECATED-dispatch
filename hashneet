@@ -1,2 +1,4 @@
 echo 'hello world'
 echo 'my cron job'
+cd /var/lib/jenkins
+ll
