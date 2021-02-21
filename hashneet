@@ -5,3 +5,5 @@ ll
 echo 'here is the list'
 echo 'here is the list'
 echo 'testing hook feature'
+echo 'testing'
+echo 'jenkins hook'
